@@ -39,9 +39,9 @@ Please send us the work for the following points :
 *  Invite your reviewers as as **Collaborator**
   * open the following menu menu: **Settings  > Collaborators**
   * click on **Add people** button
-  * add **Hazem-Ben-Khalfallah**
+  * add **BoughzelaAymen**
 
-* Create a new pull request and set **Hazem-Ben-Khalfallah** as Reviewer
+* Create a new pull request and set **BoughzelaAymen** as Reviewer
 
 **Good luck !**
 
