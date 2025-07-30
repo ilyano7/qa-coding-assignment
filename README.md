@@ -32,14 +32,13 @@ Please send us the work for the following points :
 * Fork the Github repository into your own **private** personal repository in **in Github**
 
 * Push your code / docs into a new branch with the following name:
-  * firstname_lastname
-  
-  * please use snake case format
+	* firstname_lastname
+	* please use snake case format
 
 *  Invite your reviewers as as **Collaborator**
-  * open the following menu menu: **Settings  > Collaborators**
-  * click on **Add people** button
-  * add **BoughzelaAymen**
+	* open the following menu menu: **Settings  > Collaborators**
+	* click on **Add people** button
+	* add **BoughzelaAymen**
 
 * Create a new pull request and set **BoughzelaAymen** as Reviewer
 
