@@ -1,0 +1,26 @@
+# QA Automation Assignment
+
+This project is an automated testing framework built with **Java**, **Cucumber**, **Selenium**, and **Maven**.
+The tests can be executed locally using **IntelliJ IDEA** with the appropriate plugins installed.
+
+---
+
+## ✅ Technologies Used
+
+### **1. IntelliJ IDEA**
+The project was developed using **IntelliJ IDEA**, which provides:
+- Smart code completion
+- Built-in Maven support
+- Integrated test runner
+- Plugin marketplace (Cucumber for Java, Gherkin)
+
+Required plugins:
+- **Cucumber for Java**
+- **Gherkin**
+- **Maven**
+
+This framework offers:
+    Cleanly structured Page Object Model
+    Business-readable Gherkin scenarios
+    Reliable Selenium automation
+    Maven-based execution
